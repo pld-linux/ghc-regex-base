@@ -7,7 +7,7 @@ Summary:	Interface API for regex-posix,pcre,parsec,tdfa,dfa
 Summary(pl.UTF-8):	API interfejsu dla regex-posix,pcre,parsec,tdfa,dfa
 Name:		ghc-%{pkgname}
 Version:	0.94.0.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/regex-base
